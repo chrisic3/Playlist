@@ -1,2 +1,2 @@
 language = "cpp"
-run = "g++ Contacts.cpp main.cpp -Wall -o a.out W"
+run = "g++ main.cpp Playlist.cpp -Wall -o a.out"
